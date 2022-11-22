@@ -1,8 +1,8 @@
 ##  Hi! I'm Daniel Carolino 🖐️
 
-<h3> Sobre mim </h3>
+<h3> 🫡 Sobre mim 🇧🇷 </h3>
 
-- 🎓   Estudando **Desenvolvimento de Software Multiplataforma** na <a href="https://fatecararas.cps.sp.gov.br/"> **FATEC ARARAS** </a>.
+- 🎓   Estudante de **Desenvolvimento de Software Multiplataforma** na <a href="https://fatecararas.cps.sp.gov.br/"> **FATEC ARARAS** </a>.
 
 
 </br>
@@ -21,7 +21,7 @@
  
 <br/>
 
-<h3> : foguete :    Minhas Habilidades </h3>
+<h3> 🚀 Minhas Habilidades </h3>
 
 **Aplicações e Dados**
 
@@ -35,7 +35,7 @@
 </div>
 <br/>
 
-**DevOps**
+#️⃣ **DevOps**
 
 <br/>
 <div>
@@ -44,7 +44,7 @@
 </div>  
 <br/>
 
-**Ferramentas de Desenvolvimento**
+ 🖥️ **Ferramentas de Desenvolvimento**
 
 <br/>
 <div>
@@ -55,7 +55,7 @@
 
 
 
-<h3> : earth_americas :    Onde me encontrar: </h3>
+<h3> 🛰️  Onde me encontrar: </h3>
 
 <div>
     <a href = "mailto:daniel.carolino@fatec.sp.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
