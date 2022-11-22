@@ -1,6 +1,6 @@
 ##  Hi! I'm Daniel Carolino 🖐️
 
-<h3> 👩‍🎓 Sobre mim </h3>
+<h3> Sobre mim </h3>
 
 - 🎓   Estudando **Desenvolvimento de Software Multiplataforma** na <a href="https://fatecararas.cps.sp.gov.br/"> **FATEC ARARAS** </a>.
 
@@ -62,4 +62,4 @@
     <a href="https://www.linkedin.com/in/danielcarolino/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn- %230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![ Animação de cobra ](https://github.com/DanielCarolino89/DanielCarolino89/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/DanielCarolino89/DanielCarolino89/blob/output/github-contribution-grid-snake.svg)
