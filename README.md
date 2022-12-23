@@ -1,4 +1,4 @@
-##  Hi! I'm Daniel Carolino 🖐️
+##  Hi! I'm Daniel de Godoy Carolino 🖐️
 
 <h3> 🫡 Sobre mim 🇧🇷 </h3>
 
