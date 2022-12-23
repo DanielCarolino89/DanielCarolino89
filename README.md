@@ -62,8 +62,9 @@
     <a href="https://www.linkedin.com/in/danielcarolino/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn- %230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <br>
-<h3align="center">ACESSOS</h3>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/DanielCarolino89/count.svg" /></p>
+<div>
+<h3 align="center">ACESSOS</h3>
+<p align="center"><img alingn="center" src="https://profile-counter.glitch.me/DanielCarolino89/count.svg" /></p>
 <br>
-
+</div><br>
  ![Snake animation](https://github.com/DanielCarolino89/DanielCarolino89/blob/output/github-contribution-grid-snake.svg)
