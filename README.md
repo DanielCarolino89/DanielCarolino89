@@ -65,6 +65,7 @@
 <div>
 <h3 align="center">ACESSOS</h3>
 <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/DanielCarolino89/count.svg" /></p>
+</div>
 <br>
-</div><br>
+
  ![Snake animation](https://github.com/DanielCarolino89/DanielCarolino89/blob/output/github-contribution-grid-snake.svg)
