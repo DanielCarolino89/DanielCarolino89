@@ -18,7 +18,10 @@
 </a>
   
 </div>
- 
+
+ ## Streaks Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanielCarolino89&theme=dark&date_format=j%20M%5B%20Y%5D&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://git.io/streak-stats)
 <br/>
 
 <h3> 🚀 Minhas Habilidades </h3>
