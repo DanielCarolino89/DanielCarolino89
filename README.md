@@ -39,6 +39,8 @@
         src="https://raw.githubusercontent.com/rewerp/icons/0e439a058630db63e7356bdb1af3189b2f772bd7/devicons/css3-plain.svg">
     <img alt="Figma" title="Figma" height="60" width="auto"
      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+    <img alt="Apache" title="Apache" height="60" width="auto"
+     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
         <img alt="Bootstrap" title="Bootstrap" height="60" width="auto"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
     <img alt="Git" title="Git" height="60" width="auto"
