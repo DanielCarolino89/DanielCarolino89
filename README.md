@@ -1,6 +1,6 @@
 <h1 align="center"><b>Prazer Daniel de Godoy Carolino 👋</b></h1>
 <br>
-<h3 align="center"><b>🎓 Estudante de Desenvolvimento de Software Multiplataforma - FATEC de Araras</b></h3>
+<h3 align="center"><b>🎓 Estudante de Desenvolvimento de Software Multiplataforma - FATEC de Araras - 🇧🇷</b></h3>
 <h3 align="center"><b>“Seja uma referência de qualidade. As pessoas não estão acostumadas a ambientes onde a excelência
         é esperada”. Steve Jobs</b></h5>
     <h3 align="left">Conecte-se comigo:</h3>
