@@ -35,9 +35,12 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 <br>
-<div align="center" >
-  <img align="justify" height="155em" style="margin: 5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCarolino89&langs_count=8&layout=compact&account_private=true&hide_border=false&theme=dracula" href="#"><br>
-  <img height="155em" alight="justify" style="margin: 5px;" src="https://github-readme-stats.vercel.app/api?username=DanielCarolino89&count_private=true&hide_border=false&show_icons=true&theme=dracula"><br>
+##
+<div align="center">
+  <a href="https://github.com/cahjustino">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielCarolino89&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCarolino89&layout=compact&langs_count=7&theme=radical"/>
+</div><br>
 <div> ## Streaks Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanielCarolino89&theme=dark&date_format=j%20M%5B%20Y%5D&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://git.io/streak-stats)
