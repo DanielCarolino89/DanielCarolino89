@@ -1,9 +1,9 @@
-<h1 align="center"><b>Prazer Daniel de Godoy Carolino 👋</b></h1>
+<h1 align="center"><b>Prazer Daniel de Godoy Carolino 👋🏻</b></h1>
 <br>
 <h3 align="center"><b>🎓 Estudante de Desenvolvimento de Software Multiplataforma - FATEC de Araras</b></h3><br>
 <h3 align="center"><b>“Seja uma referência de qualidade. As pessoas não estão acostumadas a ambientes </b></h3>
-    <h3 align="center"><b>onde a excelência é esperada”. Steve Jobs</b></h3><br>
-<h3 align="left">Conecte-se comigo:</h3>
+    <h3 align="center"><b>onde a excelência é esperada”. Steve Jobs 🖥️</b></h3><br>
+<h3 align="left">🤝🏻 Conecte-se comigo:</h3>
 <div align="left">
     <a href="https://www.linkedin.com/in/danielcarolino" target="blank"><img align="center"
             src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"
@@ -21,7 +21,7 @@
             src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"
             height="40" width="auto" /></a>
 </div><br>
-<h3 align="left">Linguagens e ferramentas:</h3>
+<h3 align="left">🤖 Linguagens e ferramentas:</h3>
 <div align="left">
         <img alt="C++" title="C++" height="60" width="auto"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
