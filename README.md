@@ -69,7 +69,8 @@
     <div align="center">
         <h3><b>## Estatísticas de sequências</b></h3>
 
-        [![GitHubStreak](http://github-readme-streak-stats.herokuapp.com?user=DanielCarolino89&theme=dark&date_format=j%20M%5B%20Y%5D&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://git.io/streak-stats)
+        [![GitHub
+        Streak](http://github-readme-streak-stats.herokuapp.com?user=DanielCarolino89&theme=dark&date_format=j%20M%5B%20Y%5D&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://git.io/streak-stats)
         <br />
     </div>
     <h3 align="center">ACESSOS</h3>
