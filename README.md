@@ -25,18 +25,20 @@
 <div align="left">
      <img alt="C++" title="C++" height="60" width="auto"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-    <img alt="C" title="C" height="60" width="auto"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img alt="Java" title="C" height="60" width="auto"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img alt="Javascript" title="Javascript" height="60" width="auto"
         src="https://raw.githubusercontent.com/rewerp/icons/0e439a058630db63e7356bdb1af3189b2f772bd7/devicons/javascript-original.svg">
     <img alt="PHP" title="PHP" height="60" width="auto"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img alt="Python" title="Python" height="60" width="auto"
+     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img alt="HTML" title="HTML" height="60" width="auto"
         src="https://raw.githubusercontent.com/rewerp/icons/0e439a058630db63e7356bdb1af3189b2f772bd7/devicons/html5-original.svg">
     <img alt="CSS" title="CSS" height="60" width="auto"
         src="https://raw.githubusercontent.com/rewerp/icons/0e439a058630db63e7356bdb1af3189b2f772bd7/devicons/css3-plain.svg">
+    <img alt="Figma" title="Figma" height="60" width="auto"
+     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
         <img alt="Bootstrap" title="Bootstrap" height="60" width="auto"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
     <img alt="Git" title="Git" height="60" width="auto"
