@@ -5,7 +5,7 @@
 <br>
 <h3 align="center"><b>🎓 Estudante de Desenvolvimento de Software Multiplataforma - FATEC de Araras</b></h3><br>
 <h3 align="center"><b>“Seja uma referência de qualidade. As pessoas não estão acostumadas a ambientes </b></h3>
-    <h3 align="center"><b>onde a excelência é esperada”. Steve Jobs 🖥️</b></h3>
+    <h3 align="center"><b>onde a excelência é esperada”. Steve Jobs 🖥️</b></h3><br>
 <p align="center"> 
   <a href="https://github.com/DanielCarolino89?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DanielCarolino89?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
