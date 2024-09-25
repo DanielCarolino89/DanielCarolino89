@@ -28,7 +28,7 @@
     <a href="https://github.com/danielcarolino89" target="blank"><img align="center"
             src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"
             height="40" width="auto" /></a>
-    <a href="https://wa.me/5519996300297" target="blank"><img align="center"
+    <a href="https://api.whatsapp.com/send/?phone=5519996300297&text=%22Ol%C3%A1,%20estou%20de%20visita%20em%20seu%20github.%22&type=phone_number&app_absent=0" target="blank"><img align="center"
             src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"
             height="40" width="auto" /></a>
 </div><br>
