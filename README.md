@@ -34,23 +34,41 @@
 </div><br>
 <h3 align="left">🧠 Linguagens de Programação & Marcação:</h3>
 <div align="left">
-     <!-- C++ -->
-<img height="32" width="32" style="color:#00599C;" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/cplusplus.svg" />
+  <!-- Python -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
 
 <!-- Java -->
-<img height="32" width="32" style="color:#007396;" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/java.svg" />
-
-<!-- Python -->
-<img height="32" width="32" style="color:#3776AB;" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/python.svg" />
-
-<!-- PHP -->
-<img height="32" width="32" style="color:#777BB4;" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/php.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32"/>
 
 <!-- HTML -->
-<img height="32" width="32" style="color:#E34F26;" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/html5.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32"/>
 
 <!-- JavaScript -->
-<img height="32" width="32" style="color:#F7DF1E;" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/javascript.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
+
+<!-- Bootstrap -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32"/>
+
+<!-- Git -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32"/>
+
+<!-- VS Code -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32"/>
+
+<!-- PHP -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32"/>
+
+<!-- MySQL -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32"/>
+
+<!-- MongoDB -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32"/>
+
+<!-- Figma -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32"/>
+
+<!-- Apache -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="32"/>
 
 
 
