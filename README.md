@@ -17,13 +17,13 @@
 <h3 align="left">🤝🏻 Conecte-se comigo:</h3>
 <div align="left">
     <a href="https://www.linkedin.com/in/danielcarolino" target="blank"><img align="center"
-            src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
             height="40" width="auto" /></a>
     <a href="mailto:daniel.carolino@fatec.sp.gov.br" target="blank"><img align="center"
-            src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/teams/teams-original.svg"
             height="40" width="auto" /></a>
     <a href="mailto:daniel.carolino@gmail.com" target="blank"><img align="center"
-            src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="40"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" height="40"
             width="auto" /></a>
     <a href="https://github.com/danielcarolino89" target="blank"><img align="center"
             src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"
