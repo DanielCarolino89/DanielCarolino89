@@ -32,34 +32,26 @@
             src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"
             height="40" width="auto" /></a>
 </div><br>
-<h3 align="left">🤖 Linguagens e ferramentas:</h3>
+<h3 align="left">🧠 Linguagens de Programação & Marcação:</h3>
 <div align="left">
-        <img alt="C++" title="C++" height="60" width="auto"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-        <img alt="Java" title="C" height="60" width="auto"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-        <img alt="Javascript" title="Javascript" height="60" width="auto"
-            src="https://raw.githubusercontent.com/rewerp/icons/0e439a058630db63e7356bdb1af3189b2f772bd7/devicons/javascript-original.svg">
-        <img alt="PHP" title="PHP" height="60" width="auto"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-        <img alt="Python" title="Python" height="60" width="auto"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-        <img alt="HTML" title="HTML" height="60" width="auto"
-            src="https://raw.githubusercontent.com/rewerp/icons/0e439a058630db63e7356bdb1af3189b2f772bd7/devicons/html5-original.svg">
-        <img alt="CSS" title="CSS" height="60" width="auto"
-            src="https://raw.githubusercontent.com/rewerp/icons/0e439a058630db63e7356bdb1af3189b2f772bd7/devicons/css3-plain.svg">
-        <img alt="Figma" title="Figma" height="60" width="auto"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-        <img alt="Apache" title="Apache" height="60" width="auto"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
-        <img alt="Bootstrap" title="Bootstrap" height="60" width="auto"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-        <img alt="Git" title="Git" height="60" width="auto"
-            src="https://raw.githubusercontent.com/rewerp/icons/0e439a058630db63e7356bdb1af3189b2f772bd7/devicons/git-original.svg">
-        <img alt="VSCode" title="VS Code" height="60" width="auto"
-            src="https://raw.githubusercontent.com/rewerp/icons/ec13fe8d88a6c8acb8fd0275614fd9453bdd104b/devicons/vscode-original.svg">
-        <img alt="MySQL" title="MySQL" height="60" width="auto"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+       <!-- C++ -->
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/cplusplus.svg" />
+
+<!-- Java -->
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/java.svg" />
+
+<!-- Python -->
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/python.svg" />
+
+<!-- PHP -->
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/php.svg" />
+
+<!-- HTML -->
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/html5.svg" />
+
+<!-- JavaScript -->
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/javascript.svg" />
+
     </div>
     <br>
 <div align="center"><h3><b>
