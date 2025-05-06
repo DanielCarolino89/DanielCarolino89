@@ -1,6 +1,3 @@
-<img height="32" width="32" src="https://cdn.simpleicons.org/whatsapp" />
-
-
 <h1 align="center"><b>👋🏻 Prazer Daniel de Godoy Carolino</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="http://link.mercadopago.com.br/danielcarolino">
     <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="paypal" />
