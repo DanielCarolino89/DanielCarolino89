@@ -34,23 +34,24 @@
 </div><br>
 <h3 align="left">🧠 Linguagens de Programação & Marcação:</h3>
 <div align="left">
-       <!-- C++ -->
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/cplusplus.svg" />
+     <!-- C++ -->
+<img height="32" width="32" style="color:#00599C;" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/cplusplus.svg" />
 
 <!-- Java -->
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/java.svg" />
+<img height="32" width="32" style="color:#007396;" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/java.svg" />
 
 <!-- Python -->
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/python.svg" />
+<img height="32" width="32" style="color:#3776AB;" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/python.svg" />
 
 <!-- PHP -->
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/php.svg" />
+<img height="32" width="32" style="color:#777BB4;" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/php.svg" />
 
 <!-- HTML -->
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/html5.svg" />
+<img height="32" width="32" style="color:#E34F26;" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/html5.svg" />
 
 <!-- JavaScript -->
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/javascript.svg" />
+<img height="32" width="32" style="color:#F7DF1E;" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/javascript.svg" />
+
 
     </div>
     <br>
