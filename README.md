@@ -24,22 +24,23 @@
 
 <h3 align="left">🤝🏻 Conecte-se comigo:</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/danielcarolino/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="40" />
-  </a>
-  <a href="https://teams.microsoft.com/v2/daniel.carolino" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white" height="40" />
-  </a>
   <a href="mailto:daniel.carolino@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="40" />
   </a>
   <a href="https://github.com/DanielCarolino89" target="blank">
     <img align="center" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=github&logoColor=white" height="40" />
   </a>
+  <a href="https://www.linkedin.com/in/danielcarolino/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="40" />
+  </a>
+  <a href="https://teams.microsoft.com/v2/daniel.carolino" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white" height="40" />
+  </a>
   <a href="https://api.whatsapp.com/send/?phone=5519996300297&text=Ol%C3%A1,%20visitei%20seu%20Github&type=phone_number&app_absent=0" target="blank">
     <img align="center" src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="40" />
   </a>
 </div>
+
 
 <br>
 
