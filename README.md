@@ -16,21 +16,32 @@
 
 <h3 align="left">🤝🏻 Conecte-se comigo:</h3>
 <div align="left">
-    <a href="https://www.linkedin.com/in/danielcarolino" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-            height="40" width="auto" /></a>
-    <a href="mailto:daniel.carolino@fatec.sp.gov.br" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/teams/teams-original.svg"
-            height="40" width="auto" /></a>
-    <a href="mailto:daniel.carolino@gmail.com" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" height="40"
-            width="auto" /></a>
-    <a href="https://github.com/danielcarolino89" target="blank"><img align="center"
-            src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"
-            height="40" width="auto" /></a>
-    <a href="https://api.whatsapp.com/send/?phone=5519996300297&text=%22Ol%C3%A1,%20estou%20de%20visita%20em%20seu%20github.%22&type=phone_number&app_absent=0" target="blank"><img align="center"
-            src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"
-            height="40" width="auto" /></a>
+    <!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/seu-usuario" target="blank">
+  <img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="40" />
+</a>
+
+<!-- Microsoft Teams -->
+<a href="https://teams.microsoft.com" target="blank">
+  <img align="center" src="https://img.shields.io/badge/-Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white" height="40" />
+</a>
+
+<!-- Gmail -->
+<a href="mailto:seu-email@gmail.com" target="blank">
+  <img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="40" />
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/seu-usuario" target="blank">
+  <img align="center" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=github&logoColor=white" height="40" />
+</a>
+
+<!-- WhatsApp -->
+<a href="https://wa.me/SEUNUMERO" target="blank">
+  <img align="center" src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="40" />
+</a>
+
+
 </div><br>
 
 <h3 align="left">🧠 Linguagens de Programação & Marcação:</h3>
