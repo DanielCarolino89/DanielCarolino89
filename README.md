@@ -53,8 +53,7 @@
 <img height="32" width="32" style="color:#F7DF1E;" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/javascript.svg" />
 
 
-    </div>
-    <br>
+
 <div align="center"><h3><b>
    GitHub Estatísticas</b></h3>
 
